@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supreme authority of England, the Commons assembled in Parliament. The humble addresse of Thomas Devenish</title>
+            <author>Devenish, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81377</idno>
+            <idno type="STC">Wing D1213A</idno>
+            <idno type="STC">ESTC R226919</idno>
+            <idno type="EEBO-CITATION">99895668</idno>
+            <idno type="PROQUEST">99895668</idno>
+            <idno type="VID">153173</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153173)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2352:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supreme authority of England, the Commons assembled in Parliament. The humble addresse of Thomas Devenish</title>
+                  <author>Devenish, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devenish, Thomas --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prisoners and prisons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="address">
+            <pb n="1" facs="tcp:153173:1"/>
+            <head>To the Supreme Authority of <hi>England,</hi> the Commons Aſſembled in <hi>Parliament.</hi>
+            </head>
+            <head type="sub">
+               <hi>The Humble Addreſſe of</hi> Thomas Deveniſh.</head>
+            <opener>
+               <salute>Shewing,</salute>
+            </opener>
+            <p>THat after the ſetting of this Parliament; troubles a<g ref="char:EOLhyphen"/>riſing in this Nation in moſt places; and he living at that time in the County of <hi>Dorſet,</hi> near the houſe of a great Recuſant, was in great danger of his life, by that family, and thoſe ill affected, who frequently reſorted to the ſaid houſe (they knowing him well to be faithfull to the Parliament) which being by a great providence diſcovered to your ſuppliant, he was neceſſitated for the preſervation of his life, to fly to <hi>London</hi> for refuge, and having lived there but a ſhort time, ſome of this Honourable Houſe, who knew your ſuppliant and his condition, proffered him <hi>Wincheſter</hi> houſe to keepe the Parliaments Priſoners in, as an imployment that might be and was thought beneficiall, and thereupon got an Ordinance of Par<g ref="char:EOLhyphen"/>liament dated 14. <hi>Novem.</hi> 1642. to that purpoſe; which when one M. <hi>Nicholas Young</hi> heard of, he appeared and laid claim to the ſaid houſe, as having in law an unqueſtionable title for his life, to the profits and benefits of the ſaid houſe, by Patent from the Bi<g ref="char:EOLhyphen"/>ſhop, confirmed by the Dean and Chapter of <hi>Wincheſter,</hi> whereup<g ref="char:EOLhyphen"/>on the Committee for priſoners, ſent for the ſaid <hi>Young,</hi> to pro<g ref="char:EOLhyphen"/>duce his title, and upon their peruſall of his Evidence they jud<g ref="char:EOLhyphen"/>ged his title good in Law, and thought it reaſonable, if he would conſent that the Houſe ſhould be imployed as a Priſon for the Par<g ref="char:EOLhyphen"/>liaments uſe: That the ſaid M. <hi>Young</hi> ſhould have 52 <abbr>l.</abbr> 
+               <hi>per annum</hi> for the uſe thereof, beſides his ſallary and all other benefits of al<g ref="char:EOLhyphen"/>lowance of diet, Liveries <hi>&amp;c.</hi> mentioned in his letters Patent, he ſhould keep to himſelf; which Agreement being made with the ſaid M. <hi>Young,</hi> the ſaid Committee prevailed with the Parliament to paſſe another Ordinance dated 3. Decem. 1642. to that pur<g ref="char:EOLhyphen"/>poſe; ſo that your Suppliant, who was to have had the houſe free<g ref="char:EOLhyphen"/>ly by the former Ordinance, was now to pay out of his own purſe 52 <abbr>l.</abbr> 
+               <hi>per annum</hi> for the ſame, to keep the Parliaments priſoners in
+<pb n="2" facs="tcp:153173:2"/>notwithſtanding he never had a penny ſallary for all his pains and expences, but was to expect to have it by way of fees from ſuch priſoners as ſhould be ſent to the ſaid houſe, which proved little worth; for this Honourable Houſe then ſent few of any ability to that place, but diſpoſed moſt commonly of ſuch priſoners to Sir <hi>John Lenthall</hi> and M. <hi>Warcop</hi> &amp;c and did fill up <hi>Wincheſter</hi> houſe with poor Soldiers, in all near a thouſand, which made the houſe al<g ref="char:EOLhyphen"/>together unprofitable, noyſome, and brought the plague into it, in which miſerable condition, your ſuppliants wife, &amp; divers other of his family were ſwept away by death, and his friends ſtood afar off from him, &amp; durſt not come nigh him, to comfort or help him: But beſides all this there was yet more that added abundantly to his miſery and ſorrow, which was that this Honourable Houſe having appointed ſo many hundreds of the <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zeby</hi> poor priſoners, to his cu<g ref="char:EOLhyphen"/>ſtody, voted them allowance for their maintenance, ſo that the pro<g ref="char:EOLhyphen"/>portion did not exceed ſix pence <hi>per diem</hi> for a man; &amp; the Commit<g ref="char:EOLhyphen"/>tee for priſoners, by vertue of that Order, appointing him to allow them threepence a day a man; faithfully promiſing weekly to pay him, that which ſo hee ſhould lay out for them, accordingly your ſuppliant did honeſtly and conſtantly allow them the ſaid allowance, expecting his money weekly according to faith and promiſe, neither of which hath been kept with him; he being at this day out of purſe three hundred and odde pounds for ſuch poor Soldiers, as had threepence <hi>per diem,</hi> beſides poor Officers which had alſo allowance, beſides all which, he further provided them ſtraw, and meat, <hi>&amp;c.</hi> for the ſick, and buried their dead at his own charge. Moreover he hath laid out a 100 <abbr>l.</abbr> in repairing the houſe, which reparations are appointed by the forementioned Ordinance to be allowed out of the Biſhops Rents, but yet there was never penny paid; all which things laid together rendred your ſuppliants con<g ref="char:EOLhyphen"/>dition moſt miſerable and ſad, and the rather becauſe that which was pretended by the Parliament for his good, was apparently turned to his miſchief and hurt, and not knowing how to help himſelf; his frequent and daily addreſſes to the Committee for priſoners, proving altogether fruitleſſe, and a meer expence of time and money, at laſt he was neceſſitated to treat with the ſaid M. <hi>Young</hi> for the buying his Patent, and all his intereſt and title in the ſaid houſe, that he might no longer ſit at ſo great a Rent as 52 <abbr>l.</abbr> 
+               <hi>per annum</hi> to doe the Parliament ſervice, and no profit at all ariſing to himſelf: whereupon the ſaid M. <hi>Young</hi> and your ſuppli<g ref="char:EOLhyphen"/>ant
+<pb n="3" facs="tcp:153173:2"/>did agree (the writings and conveyances being drawn up by your Sollicitor General M. <hi>John Cook,</hi> who then did affirm, and ſtill doth declare, that your ſuppliants purchaſe of the premiſſes of the hands of the ſaid M. <hi>Young,</hi> is as valid and good in law for his life to the whole houſe, as can be in law made unto a man) ſo that the entire intereſt right and title of Maſter <hi>Young</hi> to the ſaid houſe, and all the benefits, and profits, and arrears of profits of the ſaid patent being legally your ſuppliants, hee may well, and he hopes conſcionably reckon the 52 <abbr>l.</abbr> rent <hi>per annum,</hi> with the oth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r arrears of profits of the ſaid patent at 100 pound <hi>per annum,</hi> which for ſix years amounts to 600 pound; of all which he your ſuppliant, never from you, or any for you received a pen<g ref="char:EOLhyphen"/>ny, and he is clear out of purſe for relieving the poor ſouldiers; and repairing the houſe above 400 pound (beſides his buying and le<g ref="char:EOLhyphen"/>gally purchaſing the patent) which with the fore-mentioned 600 pound, makes above 1000 <abbr>l.</abbr> and hath no rationall nor viſible way in his apprehenſion left him to get his money, which is his due and right, but onely his legall and juſt intereſt hee hath in the ſaid Bi<g ref="char:EOLhyphen"/>ſhops houſe by vertue of his patent. But now ſo it is at laſt, as if there were a determinate reſolution utterly to undoe your ſuppli<g ref="char:EOLhyphen"/>ant, and all that belongs to him, for his faithfulneſſe to you, it is ſtrongly endeavoured by the Truſtees of Biſhops Lands violently to put him out of poſſeſſion of his legall right of the ſame houſe, not making him any allowance in the world for the great ſummes of money due to him, nor ſhewing him any probable way how to obtain his juſt right and due, but have made complaint againſt him to the Committee of Parliament for removing of obſtructions in the ſale of Biſhops Lands, who have ſent for him ſeverall times, and dealt worſe with him, then wicked <hi>Abab</hi> was willing to have dealt with poor <hi>Naboth</hi> for his vineyard; who was willing to give him a better vineyard then it, for it, or as much money as it was worth, 1 <hi>King.</hi> 21.2. but they command him to deliver up to the Truſtees his legall poſſeſſion and title, without the proffer of any valuable conſideration at all, uſing him with much reproach, and ſcorn, and threatning language; and though the laſt week, as at other times he waited upon them, and could have no audience, there being not a Committee, and being but newly gone out of Town into <hi>Eſſex,</hi> the ſaid Committee upon the 14. of <hi>March</hi> laſt ſent the ſervants of the Serjant at Arms, attending your houſe thither to apprehend him, as a priſoner, and keep him in ſafe cu<g ref="char:EOLhyphen"/>ſtody
+<pb n="4" facs="tcp:153173:3" rendition="simple:additions"/>to his exceeding reproach, loſſe and charge, though at that time he was buſily imploied in the Parliaments ſervice, about <hi>Til<g ref="char:EOLhyphen"/>bury</hi> block-houſe by Collonel <hi>Temple,</hi> a Member of your Houſe, for which ſervice he receiveth no ſalary from you or other profit.</p>
+            <p>Now your ſuppliant humbly beſeecheth you to judge impartial<g ref="char:EOLhyphen"/>ly how ſadly he is dealt withall, who hath faithfully adhered to you from the beginning and ſent out his three ſons in your ſervice, one of which was ſlain therein, and a ſon in law of his loſt his life in your ſervice alſo, and left behinde him your ſuppliants poor daughter, a widdow with four ſmall children without relief, pit<g ref="char:EOLhyphen"/>ty, or help from you; and now he himſelf, who hath laid out his all for you, muſt be thus therefore deſtroied in his helples old-age, as alſo the reſt of his children by a forcible taking from him and them their juſt right, which ſhould purchaſe them bread, to keep them alive in theſe ſtarving times; he not in the leaſt deſiring to keep and preſerve his poſſeſſion in his houſe for that ſingle life he hath in it any longer, then till you will audite his Accompts, and pay him what you juſtly owe him, and give him a valuable conſi<g ref="char:EOLhyphen"/>deration for his legally purchaſed intereſt in it, or elſe ſet him ſome reaſonable price upon your future right in the premiſſes, that ſo he may endeavour to procure ſome friend of his to pay you ready mo<g ref="char:EOLhyphen"/>ney for it, allowing him in the price thereof, what is juſtly his due and right. In the mean time he humbly beſeecheth you, that he may have his liberty granted him, that thereby he may be the better enabled to do you further ſervice.</p>
+            <closer>
+               <signed>Thomas Deveniſh.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
